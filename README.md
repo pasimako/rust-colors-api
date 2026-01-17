@@ -1,8 +1,8 @@
-# Rust Colors API
+# rust-colors-api
 
 A minimal Rust API server built with Axum.
 
-This repository contains the exact code built step-by-step in my tutorial at [ubuverse.com/introduction-to-restful-api-development-with-rust-for-nodejs-developers/](https://ubuverse.com/introduction-to-restful-api-development-with-rust-for-nodejs-developers/).
+This repository contains the code built step by step in my tutorial at [ubuverse.com/introduction-to-restful-api-development-with-rust-for-nodejs-developers/](https://ubuverse.com/introduction-to-restful-api-development-with-rust-for-nodejs-developers/).
 
 ## Running
 
@@ -49,3 +49,7 @@ Adds a new color.
   "colors": ["BLUE"]
 }
 ```
+
+## License
+
+GPL-3.0
